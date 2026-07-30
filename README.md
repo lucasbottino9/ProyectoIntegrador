@@ -210,7 +210,7 @@ Esto permite identificar:
 - cambios abruptos en la población;
 - deterioro potencial del modelo;
 - necesidad de reentrenamiento.
-# 16. Flujo MLOps implementado
+# 14. Flujo MLOps implementado
 Datos históricos
 
         |
@@ -253,7 +253,7 @@ Monitoreo Data Drift
 
 Retraining
 
-# 17. Próximos pasos
+# 15. Próximos pasos
 Como evolución del proyecto se contempla
 - desarrollo de aplicación Streamlit;
 - integración del modelo entrenado;
@@ -262,7 +262,7 @@ Como evolución del proyecto se contempla
 - automatización del monitoreo;
 - estrategia automática de reentrenamiento.
 
-# 18. Conclusión
+# 16. Conclusión
 El proyecto implementa un flujo completo de Machine Learning siguiendo principios de MLOps.
 La solución permite pasar desde datos históricos hasta un sistema preparado para producción, incorporando:
 - calidad de código;
